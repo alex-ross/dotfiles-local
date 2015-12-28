@@ -1,0 +1,13 @@
+set encoding=utf-8
+" Colorscheme
+let g:rehash256 = 1
+colorscheme molokai
+
+" Better use of netrw
+let g:netrw_liststyle=3
+map <leader>k :Explore<cr>
+
+" Better whitespace
+set list listchars=tab:>-,trail:␣,nbsp:%
+
+

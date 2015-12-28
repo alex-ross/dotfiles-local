@@ -1,0 +1,2 @@
+Plug 'tomasr/molokai'
+Plug 'docker/docker', {'rtp': '/contrib/syntax/vim/'}

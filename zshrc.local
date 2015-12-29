@@ -1,0 +1,3 @@
+function denv {
+         eval "$(docker-machine env $1)"
+}
